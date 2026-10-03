@@ -25,3 +25,13 @@ Use Structura to create structural models, apply loads and supports, run an anal
 
 No installation or sign-up is required.
 
+## How to Use
+
+
+
+
+
+
+
+
+
