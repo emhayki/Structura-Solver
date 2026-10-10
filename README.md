@@ -1,40 +1,65 @@
 # Structura Solver
 
-**Browser-based 2D structural analysis for trusses, beams, and frames.**
+**Free, browser-based 2D structural analysis for trusses, beams, and frames.**
 
-Structura is a free structural analysis application built around the **direct stiffness method**. It runs entirely in the browser, with no installation, account, or registration required.
+Structura Solver is a free, browser-based structural analysis application powered by the **Direct Stiffness Method**. Designed for students, educators, and engineers, it provides an interactive environment for modelling, analysing, and visualising 2D trusses, beams, and frames.
 
-Use Structura to create structural models, apply loads and supports, run an analysis, and review forces, displacements, reactions, diagrams, and calculation details.
+Users can define structural geometry, material and section properties, loads, and boundary conditions, then explore results through interactive diagrams and step-by-step calculations.
+
+**No installation, account, or registration required.**
 
 ## Features
 
-- 2D truss, beam, and frame analysis
+### Structural Analysis
+
+- 2D truss analysis
+- 2D beam analysis
+- 2D frame analysis
+
+### Interactive Visualisation
+
 - Interactive structural model visualisation
-- Axial force diagrams
-- Shear force diagrams
-- Bending moment diagrams
+- Axial force diagrams (AFD)
+- Shear force diagrams (SFD)
+- Bending moment diagrams (BMD)
 - Deformed shape visualisation
+
+### Detailed Analysis Results
+
 - Support reactions
 - Nodal displacements
-- Member force results
-- Step-by-step calculation details
+- Member forces
+- Step-by-step calculation details based on the Direct Stiffness Method
 
-## Live Website
+## How It Works
 
-**[Open Structura Solver →](https://emhayki.github.io/Structura-Solver/)**
+The structural analysis workflow consists of six steps:
 
-No installation or sign-up is required.
+1. **Create your model:** Define nodes and connect them using structural members.
+2. **Assign properties:** Specify material and cross-sectional properties.
+3. **Apply boundary conditions:** Define supports and structural restraints.
+4. **Apply loads:** Add the loading conditions for your structure.
+5. **Run the analysis:** Solve for the structural response.
+6. **Explore the results:** Review reactions, displacements, internal forces, and structural diagrams.
 
+## Examples and Tutorials
 
-## Examples
+Explore Structura Solver's capabilities through practical demonstrations and detailed video tutorials.
+
+### Example Demonstration
+
+The following video demonstrates the modelling, analysis, and visualisation features of Structura Solver.
 
 https://github.com/user-attachments/assets/fee4b88c-c258-492f-b285-90d7bdfeced5
 
+### Full Worked Examples and Tutorials
 
+For complete structural analysis examples with step-by-step explanations, visit the YouTube playlist. The tutorials cover model creation, material and section properties, loading conditions, supports, and interpretation of analysis results.
 
+**[Watch the Full Worked Examples on YouTube](https://youtube.com/playlist?list=PLXYXHhr_TaKU)**
 
+## Get Started
 
+Structura Solver is free to use directly in your browser, with no installation or registration required.
 
-
-
-
+**[Open Structura Solver](https://emhayki.github.io/Structura-Solver/)**
